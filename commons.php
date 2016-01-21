@@ -10,6 +10,15 @@ function doHeader() {
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<title>Linux Presentation Day [IT]</title>
+		
+		<meta property="og:site_name" content="Linux Presentation Day" />
+		<meta property="og:title" content="Linux Presentation Day" />
+		<meta property="og:url" content="http://www.linux-presentation-day.it/" />
+		<meta property="og:image" content="http://www.linux-presentation-day.it/images/fb.png" />
+		<meta property="og:type" content="website" />
+		<meta property="og:country-name" content="Italy" />
+		<meta property="og:email" content="info@linuxday.it" />
+		<meta property="og:locale" content="it_IT" />
 
 		<link href="css/bootstrap.min.css" rel="stylesheet" />
 		<link href="css/leaflet.css" rel="stylesheet" />
