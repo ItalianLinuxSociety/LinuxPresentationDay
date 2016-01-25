@@ -30,7 +30,7 @@ doHeader();
 							<div id="map"></div>
 							<input type="hidden" name="lat" value="">
 							<input type="hidden" name="lng" value="">
-							<p class="help-block">Clicca sulla mappa per posizionare il marker in prossimità della tua location preferita. Seleziona una posizione anche se stai solo cercando collaboratori, sarà più facile incrociare le segnalazioni di interesse! <a class="display-all">Clicca qua</a> per vedere tutte le registrazioni.</p>
+							<p class="help-block">Clicca sulla mappa per posizionare il marker in prossimità della tua location preferita. Seleziona una posizione anche se stai solo cercando collaboratori, sarà più facile incrociare le segnalazioni di interesse! <a class="display-all">Clicca qua</a> per vedere tutte le registrazioni, ed eventualmente metti la tua vicino a quelle esistenti.</p>
 						</div>
 					</div>
 					<div class="form-group">
