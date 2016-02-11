@@ -59,6 +59,7 @@ doHeader();
 				<p>Pensa a dove mettere il tuo/vostro banchetto informativo. Se presso un centro commerciale, inizia da subito a spedire una richiesta di permesso alla direzione. Se in una via o in una piazza, devi chiedere una "occupazione di suolo pubblico" al tuo Comune; sicuramente sul sito del Comune stesso trovi maggiori indicazioni sul modulo da compilare e gli orari presso cui portarlo. Solitamente una "occupazione di suolo pubblico" si paga, ma in molti Comuni viene concessa gratuitamente per eventi che godono di patrocinio. Per consigli e dritte su come gestire la parte burocratica, <a href="mailto:info@linuxday.it">contattaci!</a></p>
 				<p>Dopodiché, anche a seconda della location, ti potrebbe servire dell'attrezzatura: un tavolo, tre o quattro sedie, un piccolo gazebo laddove possibile o necessario, e un paio di portatili per le dimostrazioni pratiche.</p>
 				<p>Infine, compila <a href="registrazione.php">il form di registrazione</a> per farci sapere dove intendete allestire il vostro spazio e per permetterci di pubblicare, nei prossimi mesi, un elenco completo delle adesioni.</p>
+				<p>Per ogni evenienza, <a href="images/logo.svg">scarica qui</a> il logo in formato SVG.</p>
 			</div>
 		</div>
 		
