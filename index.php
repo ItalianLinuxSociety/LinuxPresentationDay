@@ -13,7 +13,7 @@ doHeader();
 					<h3>Cos'è il Linux Presentation Day?</h3>
 				</div>
 		
-				<p>È una manifestazione per la divulgazione di Linux e del software libero, nata nel 2014 e rapidamente estesa in <strong>Germania, Austria e Svizzera</strong>. Nel 2016 sbarcherà anche in <strong>Francia, Regno Unito, Portogallo, Grecia, Olanda e, insieme a voi, in Italia</strong>. Si svolge due volte all'anno, in aprile ed in ottobre (quest'ultima ricorrenza coincide con il <a href="http://www.linuxday.it/">Linux Day italiano</a>), ed è costituita da una serie di iniziative locali allestite da gruppi cittadini di volontari tutti nella stessa data.</p>
+				<p>È una manifestazione per la divulgazione di Linux e del software libero, nata nel 2014 e rapidamente estesa in <strong>Germania, Austria e Svizzera</strong>. Nel 2016 sbarcherà anche in <strong>Francia, Regno Unito, Portogallo, Grecia e, insieme a voi, in Italia</strong>. Si svolge due volte all'anno, in aprile ed in ottobre (quest'ultima ricorrenza coincide con il <a href="http://www.linuxday.it/">Linux Day italiano</a>), ed è costituita da una serie di iniziative locali allestite da gruppi cittadini di volontari tutti nella stessa data.</p>
 				<p><a href="http://www.linux-presentation-day.org/">Qui il sito di riferimento</a>.</p>
 			</div>
 		</div>
