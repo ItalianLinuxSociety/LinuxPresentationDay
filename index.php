@@ -54,18 +54,6 @@ L.tileLayer( "http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
 	}
 ).addTo(map);
 
-map.on('click', function(e) {
-	var ll = e.latlng;
-
-	if (marker == null)
-		marker = L.marker(ll).addTo(map);
-	else
-		marker.setLatLng(ll);
-
-	$('input:hidden[name=lat]').val(ll.lat);
-	$('input:hidden[name=lng]').val(ll.lng);
-});
-
 <?php $file = file('data/true-registrations.csv'); foreach($file as $f): list($lat, $lng) = explode('|', $f); ?>
 L.marker([<?php echo $lat ?>, <?php echo $lng ?>]).addTo(map);
 <?php endforeach ?>
